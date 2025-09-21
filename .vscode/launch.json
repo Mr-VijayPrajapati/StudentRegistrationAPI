@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StudentRegistrationApiApplication<Student-Registration-API>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Prajapati.StudentRegistrationAPI.Student.Registration.API.StudentRegistrationApiApplication",
+            "projectName": "Student-Registration-API",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
